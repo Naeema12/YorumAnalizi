@@ -6,15 +6,10 @@ A **C# Windows Forms** desktop application that analyzes restaurant and hotel re
 
 ##  Screenshots
 
-<img width="1258" height="888" alt="Screenshot 2026-05-02 213302" src="https://github.com/user-attachments/assets/1370635f-7328-4a07-b3fd-46d750cc38c3" />
+<img width="1249" height="913" alt="Screenshot 2026-06-01 225606" src="https://github.com/user-attachments/assets/ba0d777f-5f9c-4d6b-94b7-c8afbde2f48c" />
+<img width="1150" height="833" alt="Screenshot 2026-06-01 225754" src="https://github.com/user-attachments/assets/4aa191ee-7392-478d-8aee-f5edf650963d" />
 
 
-
-<img width="1151" height="833" alt="Screenshot 2026-05-02 213226" src="https://github.com/user-attachments/assets/e07c4be1-be1b-4ff9-bdda-42ef6d034ff8" />
-
-
-
-<img width="1242" height="881" alt="Screenshot 2026-05-03 000824" src="https://github.com/user-attachments/assets/86adac7a-c6c0-45d9-b7cc-18c5733bbaee" />
 
 
 ---
